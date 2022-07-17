@@ -12,7 +12,7 @@ Hey there <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/
 - 🌱 Always passionate about learning new tools & technologies, especially in Web Development. 
 - 💻 I also love solving problems in coding. Look at my coding profiles <a href="https://leetcode.com/Abhishek82078/"> LeetCode</a> and <a href="https://auth.geeksforgeeks.org/user/abhishek82078/"> GeeksforGeeks</a>.
 - 👨‍💻 Check out my personal portfolio : <a href="https://abhishek-kumar82078.github.io/Portfolio/">Portfolio</a> 
-- 👯 I’m open to accept challenging opportunities as a Software Developer(SDE).
+- 👯 I’m open to accepting challenging opportunities as a Software Developer(SDE).
 - 📫 Reach me via: [abhishek82078@gmail.com](mailto:abhishek82078@gmail.com) :)
 - 😄 Pronouns: He/His
  
